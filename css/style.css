@@ -1,0 +1,21 @@
+h2.intro {
+  text-align: center;
+  color: green;
+}
+p.intro {
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-style: normal;
+color: rgb(113, 204, 91)
+}
+body {
+  background-color: blanchedalmond;
+}
+img.intro {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 25px;
+  height: 300px;
+  width: 300px;
+}
