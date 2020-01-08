@@ -1,8 +1,8 @@
-h2.intro {
+.intro h2 {
   text-align: center;
   color: green;
 }
-p.intro {
+.intro p{
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 font-style: normal;
 color: rgb(113, 204, 91)
@@ -10,7 +10,7 @@ color: rgb(113, 204, 91)
 body {
   background-color: blanchedalmond;
 }
-img.intro {
+.intro img {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -18,4 +18,25 @@ img.intro {
   border-radius: 25px;
   height: 300px;
   width: 300px;
+}
+.middle h2 {
+  text-align: center;
+  color: red;
+}
+.middle p{
+font-family: 'Times New Roman', Times, serif;
+font-style: normal;
+color: rgb(165, 66, 120)
+}
+body {
+  background-color: blanchedalmond;
+}
+.middle img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 15px;
+  height: 350px;
+  width: 400px;
 }
